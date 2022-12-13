@@ -4,7 +4,8 @@
 
 /**
  * main - main function to generate a random number
- * @n: operand
+ *
+ *@n: operand
  *
  * if: checks the operand
  *
