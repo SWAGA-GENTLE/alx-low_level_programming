@@ -2,7 +2,15 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* main function to generate a random number */
+/* 
+ * main - main function to generate a random number
+ * @n: operand
+ *
+ * if: checks the operand
+ *
+ * Return: Always 0 (Success)
+ *
+ */
 
 int main(void)
 {
